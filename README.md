@@ -1,7 +1,7 @@
-# Smart_Blind_Stick
-A life saving tool for blind people.
+# Smart Blind Stick
+A life saving tool for blind people. The code can be uploaded to an Arduino UNO board with the below components attached. It can then be mounted to the traditional wooden sticks the blind people use for moving.
 
-**Components**
+**Components Used :**
 Bluetooth Sensor,
 LDR,
 Ultrasonic Sensor,
